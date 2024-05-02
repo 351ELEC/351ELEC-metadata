@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "theme": "AmberNX",
+            "author": "AmberNX",
+            "theme_url": "https://github.com/SzalikDesigns/AmberNX",
+            "last_update": "2022-04-07",
+            "up_to_date": "1",
+            "size": "76",
+            "screenshot": "themes/AmberNX.jpg"
+        },
+        {
+            "theme": "EpicFossil",
+            "author": "EpicFossil",
+            "theme_url": "https://github.com/SzalikDesigns/EpicFossil",
+            "last_update": "2022-04-22",
+            "up_to_date": "1",
+            "size": "22",
+            "screenshot": "themes/EpicFossil.jpg"
+        },
+        {
+            "theme": "Soleus",
+            "author": "Soleus",
+            "theme_url": "https://github.com/SzalikDesigns/Soleus",
+            "last_update": "2022-04-29",
+            "up_to_date": "1",
+            "size": "66",
+            "screenshot": "themes/Soleus.jpg"
+        },
+        {
+            "theme": "Elephant-Mosquito",
+            "author": "Elephant-Mosquito",
+            "theme_url": "https://github.com/SzalikDesigns/Elephant-Mosquito",
+            "last_update": "2022-04-22",
+            "up_to_date": "1",
+            "size": "3",
+            "screenshot": "themes/Elephant-Mosquito.jpg"
+        },
+        {
+            "theme": "Chicuelo",
+            "author": "Chicuelo",
+            "theme_url": "https://github.com/SzalikDesigns/RG552-Chicuelo",
+            "last_update": "2022-01-27",
+            "up_to_date": "1",
+            "size": "32",
+            "screenshot": "themes/Chicuelo.jpg"
+        },
+        {
+            "theme": "Albedo",
+            "author": "Albedo",
+            "theme_url": "https://github.com/mluizvitor/es-theme-albedo",
+            "last_update": "2023-07-03",
+            "up_to_date": "3",
+            "size": "68",
+            "screenshot": "themes/Albedo.jpg"
+        }
+    ]
+}
